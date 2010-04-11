@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Wealth of Networks - How Social Production Transforms Markets and Freedom</dc:title>
+    
+    <dc:creator opf:file-as="Yochai Benkler" opf:role="aut">Yochai Benkler</dc:creator>
+    <dc:language>en-US</dc:language>
+    <dc:identifier id="bookid">...</dc:identifier>
+    
+    <dc:rights>Copyright (C) 2006 Yochai Benkler. All rights reserved. Subject to the exception immediately following, this book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by Sections 107 and 108 of the U.S. Copyright Law and except by reviewers for the public press), without written permission from the publishers. http://creativecommons.org/licenses/by-nc-sa/2.5/ The author has made an online version of the book available under a Creative Commons Noncommercial Sharealike license; it can be accessed through the author's website at http://www.benkler.org.</dc:rights>
+    <dc:identifier id="EPB-UUID">urn:uuid:47972f84f146ebcbae42542dc5f1224b05f3ac04098f1896d0f2e53884c0f916</dc:identifier>
+  </metadata>
+  <manifest>
+    <!-- NCX -->
+    <item id="ncx" href="epb.ncx" media-type="application/x-dtbncx+xml"/>
+    <!-- CSS Style Sheets -->
+    <item id="main-css" href="css/xhtml.css" media-type="text/css"/>
+    <!-- Content Documents -->
+    <item id="index" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="attribution" href="attribution.xhtml" media-type="application/xhtml+xml"/>
+    <item id="acknowledgments" href="acknowledgments.xhtml" media-type="application/xhtml+xml"/>
+    <item id="1" href="1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p1" href="p1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="2" href="2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="3" href="3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="4" href="4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p2" href="p2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="5" href="5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="6" href="6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="7" href="7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="8" href="8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="9" href="9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="10" href="10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p3" href="p3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="11" href="11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="12" href="12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="blurb" href="blurb.xhtml" media-type="application/xhtml+xml"/>
+    <item id="endnotes" href="endnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book_index" href="book_index.xhtml" media-type="application/xhtml+xml"/>
+    <!-- Images -->
+    <item id="won_benkler_2_1" href="image/won_benkler_2_1.png" media-type="image/png"/>
+    <item id="won_benkler_6_1" href="image/won_benkler_6_1.png" media-type="image/png"/>
+    <item id="won_benkler_7_1" href="image/won_benkler_7_1.png" media-type="image/png"/>
+    <item id="won_benkler_7_2" href="image/won_benkler_7_2.png" media-type="image/png"/>
+    <item id="won_benkler_7_3a" href="image/won_benkler_7_3a.png" media-type="image/png"/>
+    <item id="won_benkler_7_4" href="image/won_benkler_7_4.png" media-type="image/png"/>
+    <item id="won_benkler_7_5" href="image/won_benkler_7_5.png" media-type="image/png"/>
+    <item id="won_benkler_7_6" href="image/won_benkler_7_6.png" media-type="image/png"/>
+    <item id="won_benkler_9_1" href="image/won_benkler_9_1.png" media-type="image/png"/>
+    <item id="arrow_next_red" href="image/arrow_next_red.png" media-type="image/png"/>
+    <item id="arrow_prev_red" href="image/arrow_prev_red.png" media-type="image/png"/>
+    <item id="arrow_up_red" href="image/arrow_up_red.png" media-type="image/png"/>
+    <item id="bullet_09" href="image/bullet_09.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="index" linear="yes"/>
+    <itemref idref="attribution" linear="yes"/>
+    <itemref idref="acknowledgments" linear="yes"/>
+    <itemref idref="1" linear="yes"/>
+    <itemref idref="p1" linear="yes"/>
+    <itemref idref="2" linear="yes"/>
+    <itemref idref="3" linear="yes"/>
+    <itemref idref="4" linear="yes"/>
+    <itemref idref="p2" linear="yes"/>
+    <itemref idref="5" linear="yes"/>
+    <itemref idref="6" linear="yes"/>
+    <itemref idref="7" linear="yes"/>
+    <itemref idref="8" linear="yes"/>
+    <itemref idref="9" linear="yes"/>
+    <itemref idref="10" linear="yes"/>
+    <itemref idref="p3" linear="yes"/>
+    <itemref idref="11" linear="yes"/>
+    <itemref idref="12" linear="yes"/>
+    <itemref idref="blurb" linear="yes"/>
+    <itemref idref="endnotes" linear="yes"/>
+    <itemref idref="book_index" linear="yes"/>
+  </spine>
+</package>

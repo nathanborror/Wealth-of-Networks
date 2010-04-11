@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <!-- four required metadata items (for all NCX documents,
+      (including the relaxed constraints of OPS 2.0) -->
+        <meta name="dtb:uid" content="47972f84f146ebcbae42542dc5f1224b05f3ac04098f1896d0f2e53884c0f916"/>
+        <!-- <meta name="epub-creator" content="SiSU http://www.jus.uio.no/sisu (this copy)"/> -->
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>The Wealth of Networks: How Social Production Transforms Markets and Freedom</text>
+    </docTitle>
+    <docAuthor>
+        <text>Yochai Benkler</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="navpoint-1" playOrder="1">
+            <navLabel>
+                <text>Table of Contents</text>
+            </navLabel>
+            <content src="index.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-2" playOrder="2">
+            <navLabel>
+                <text>Attribution</text>
+            </navLabel>
+            <content src="attribution.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-3" playOrder="3">
+            <navLabel>
+                <text>Acknowledgments</text>
+            </navLabel>
+            <content src="acknowledgments.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-4" playOrder="4">
+            <navLabel>
+                <text>Chapter 1: Introduction: A Moment of Opportunity and Challenge</text>
+            </navLabel>
+            <content src="1.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-5" playOrder="5">
+            <navLabel>
+                <text>Part One: The Networked Information Economy</text>
+            </navLabel>
+            <content src="p1.xhtml"/>
+            <navPoint id="navpoint-7" playOrder="7">
+                <navLabel>
+                    <text>Chapter 2: Some Basic Economics of Information Production and Innovation</text>
+                </navLabel>
+                <content src="2.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-8" playOrder="8">
+                <navLabel>
+                    <text>Chapter 3: Peer Production and Sharing</text>
+                </navLabel>
+                <content src="3.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-9" playOrder="9">
+                <navLabel>
+                    <text>Chapter 4: The Economics of Social Production</text>
+                </navLabel>
+                <content src="4.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navpoint-10" playOrder="10">
+            <navLabel>
+                <text>Part Two: The Political Economy of Property and Commons</text>
+            </navLabel>
+            <content src="p2.xhtml"/>
+            <navPoint id="navpoint-12" playOrder="12">
+                <navLabel>
+                    <text>Chapter 5: Individual Freedom: Autonomy, Information, and Law</text>
+                </navLabel>
+                <content src="5.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-13" playOrder="13">
+                <navLabel>
+                    <text>Chapter 6: Political Freedom Part 1: The Trouble with Mass Media</text>
+                </navLabel>
+                <content src="6.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-14" playOrder="14">
+                <navLabel>
+                    <text>Chapter 7: Political Freedom Part 2: Emergence of the Networked Public Sphere</text>
+                </navLabel>
+                <content src="7.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-15" playOrder="15">
+                <navLabel>
+                    <text>Chapter 8: Cultural Freedom: A Culture Both Plastic and Critical</text>
+                </navLabel>
+                <content src="8.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-16" playOrder="16">
+                <navLabel>
+                    <text>Chapter 9: Justice and Development</text>
+                </navLabel>
+                <content src="9.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-17" playOrder="17">
+                <navLabel>
+                    <text>Chapter 10: Social Ties: Networking Together</text>
+                </navLabel>
+                <content src="10.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navpoint-18" playOrder="18">
+            <navLabel>
+                <text>Part Three: Policies of Freedom at a Moment of Transformation</text>
+            </navLabel>
+            <content src="p3.xhtml"/>
+            <navPoint id="navpoint-20" playOrder="20">
+                <navLabel>
+                    <text>Chapter 11: The Battle Over the Institutional Ecology of the Digital Environment</text>
+                </navLabel>
+                <content src="11.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-21" playOrder="21">
+                <navLabel>
+                    <text>Chapter 12: Conclusion: The Stakes of Information Law and Policy</text>
+                </navLabel>
+                <content src="12.xhtml"/>
+            </navPoint>
+            <navPoint id="navpoint-22" playOrder="22">
+                <navLabel>
+                    <text>Blurb</text>
+                </navLabel>
+                <content src="blurb.xhtml"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navpoint-23" playOrder="23">
+            <navLabel>
+                <text>Endnotes</text>
+            </navLabel>
+            <content src="endnotes.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-25" playOrder="25">
+            <navLabel>
+                <text>Index</text>
+            </navLabel>
+            <content src="book_index.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
